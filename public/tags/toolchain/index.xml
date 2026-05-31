@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toolchain on Mark Breaux | Information Architecture for the AI Era</title>
+    <link>http://localhost:1313/tags/toolchain/</link>
+    <description>Recent content in Toolchain on Mark Breaux | Information Architecture for the AI Era</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/toolchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PDF Automation with Miramo</title>
+      <link>http://localhost:1313/portfolio/miramo-pdf-automation/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/miramo-pdf-automation/</guid>
+      <description>&lt;p&gt;Documentation delivery to global distribution partners required manual involvement from the documentation technology team for every PDF generation request — a bottleneck that slowed delivery and created an operational dependency the team shouldn&amp;rsquo;t have owned. This case study covers the evaluation, selection, and implementation of Miramo as an automated solution integrated with the DITA Open Toolkit.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;NI&amp;rsquo;s global distribution partners needed PDF versions of product documentation to pass along to their own downstream distributors. The existing process required the documentation technology team to manually generate each PDF on request — introducing turnaround delays and making the documentation team a dependency in a routine workflow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

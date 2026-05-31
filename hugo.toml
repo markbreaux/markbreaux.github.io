@@ -1,11 +1,11 @@
-baseURL = "https://mbreaux622.github.io/"
+baseURL = "https://markbreaux.github.io/"
 languageCode = "en-us"
-title = "Mark Breaux | Senior Information Architect"
+title = "Mark Breaux | Information Architecture for the AI Era"
 theme = "hugo-profile"
 
 [params]
   title = "Mark Breaux"
-  description = "Senior Information Architect specializing in DITA, content strategy, and AI-ready documentation systems."
+  description = "Information architect specializing in making complex technical content findable, scalable, and AI-ready."
   favicon = "/favicon.ico"
 
   # Hero section (home page)
@@ -13,8 +13,8 @@ theme = "hugo-profile"
     enable = true
     intro = "Hi, I'm"
     title = "Mark Breaux"
-    subtitle = "Senior Information Architect"
-    content = "I design the systems that make complex technical content findable, scalable, and future-ready. 21 years building enterprise documentation architecture at NI."
+    subtitle = "Information Architecture for the AI Era"
+    content = "Making complex technical content findable, scalable, and AI-ready. 21 years building enterprise documentation architecture at NI."
     # image = "/images/headshot.jpg"   # uncomment and add a headshot to /static/images/
 
     [params.hero.button]
@@ -24,11 +24,11 @@ theme = "hugo-profile"
 
     [[params.hero.socialLinks.fontAwesomeIcons]]
       icon = "fab fa-linkedin"
-      url = "https://linkedin.com/in/[YOUR-LINKEDIN-HANDLE]"
+      url = "https://linkedin.com/in/mark-breaux-5a925984"
 
     [[params.hero.socialLinks.fontAwesomeIcons]]
       icon = "fab fa-github"
-      url = "https://github.com/[YOUR-GITHUB-USERNAME]"
+      url = "https://github.com/markbreaux"
 
   # About section
   [params.about]
@@ -72,65 +72,78 @@ leading AI and LLM content readiness initiatives, and supporting a community of 
       title = "Evergreen Content Strategy"
       content = "Reduced product documentation from 1.1 million pages to 250,000 through an enterprise evergreen content model — improving findability, SEO, and consistency across a portfolio of nearly 5,000 products."
       # image = "/images/case-study-evergreen.png"
-      # url = "/portfolio/evergreen-content-strategy"  # uncomment when case study page is ready
+      [params.projects.items.featured]
+        name = "Read Case Study"
+        link = "/portfolio/evergreen-content-strategy"
 
     [[params.projects.items]]
       title = "AI Content Readiness"
       content = "Pioneered documentation architecture for AI and LLM consumption: automated short-description enrichment, schema.org structured data injection, normalized content exports, and a custom AI prompt library for 30–50 writers."
-      # url = "/portfolio/ai-content-readiness"
+      [params.projects.items.featured]
+        name = "Read Case Study"
+        link = "/portfolio/ai-content-readiness"
 
     [[params.projects.items]]
       title = "User Manual Standardization"
       content = "Designed and implemented a consistent User Manual structure across all hardware and software product lines, informed by user research. Eliminated competing search results and created a predictable documentation experience for customers."
-      # url = "/portfolio/user-manual-standardization"
+      [params.projects.items.featured]
+        name = "Read Case Study"
+        link = "/portfolio/user-manual-standardization"
 
     [[params.projects.items]]
       title = "PDF Automation with Miramo"
       content = "Identified and implemented Miramo as an automated PDF generation solution integrated with the DITA Open Toolkit, removing a manual bottleneck in documentation delivery to global distribution partners."
-      # url = "/portfolio/miramo-pdf-automation"
+      [params.projects.items.featured]
+        name = "Read Case Study"
+        link = "/portfolio/miramo-pdf-automation"
 
   # Experience section
   [params.experience]
     enable = true
 
     [[params.experience.items]]
-      job = "Senior Information Architect"
-      company = "NI (formerly National Instruments)"
+      company = "Emerson Test and Measurement (formerly National Instruments)"
       companyUrl = "https://www.ni.com"
-      date = "April 2017 – Present"
-      content = """
+
+      [[params.experience.items.jobs]]
+        name = "Senior Information Architect"
+        date = "April 2017 – Present"
+        content = """
 Lead information architecture strategy for a global, multilingual documentation organization.
 Define and maintain the content model, metadata standards, DITA templates, and toolchain strategy
 supporting documentation for a portfolio of nearly 5,000 products.
 """
 
-    [[params.experience.items]]
-      job = "Senior Technical Writer"
-      company = "NI"
-      companyUrl = "https://www.ni.com"
-      date = "April 2012 – April 2017"
-      content = "Served as technical lead during enterprise DITA adoption. Built DITA specializations, DITA-OT customizations, and the organization's PDF plugin."
+      [[params.experience.items.jobs]]
+        name = "Senior Technical Writer"
+        date = "April 2012 – April 2017"
+        content = "Served as technical lead during enterprise DITA adoption. Built DITA specializations, DITA-OT customizations, and the organization's PDF plugin."
 
-    [[params.experience.items]]
-      job = "Staff Technical Writer"
-      company = "NI"
-      companyUrl = "https://www.ni.com"
-      date = "December 2007 – April 2012"
-      content = "Helped pilot and prove DITA viability for the organization, laying the groundwork for enterprise-wide adoption."
+      [[params.experience.items.jobs]]
+        name = "Staff Technical Writer"
+        date = "December 2007 – April 2012"
+        content = "Helped pilot and prove DITA viability for the organization, laying the groundwork for enterprise-wide adoption."
 
-    [[params.experience.items]]
-      job = "Technical Writer"
-      company = "NI"
-      companyUrl = "https://www.ni.com"
-      date = "May 2005 – December 2007"
-      content = "Authored documentation for vision systems, hardware, software, APIs, and device drivers. Created the organization's first .NET API reference."
+      [[params.experience.items.jobs]]
+        name = "Technical Writer"
+        date = "May 2005 – December 2007"
+        content = "Authored documentation for vision systems, hardware, software, APIs, and device drivers. Created the organization's first Vision .NET API reference."
+
+  [params.singlePages]
+    socialShare = false
+
+  [params.navbar.menus]
+    disableAbout = true
+    disableExperience = true
+    disableProjects = true
+    disableContact = true
 
   # Contact section
   [params.contact]
     enable = true
     title = "Get In Touch"
-    content = "I'm open to discussing senior information architecture, content strategy, and documentation leadership roles. Feel free to reach out."
-    email = "[YOUR-EMAIL]"
+    content = "I'm open to discussing senior information architecture, content engineering, content architecture, content strategy, and documentation leadership roles."
+    email = "mbreaux@gmail.com"
     btnName = "Email Me"
 
 [menu]

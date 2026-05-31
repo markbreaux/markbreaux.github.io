@@ -1,11 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mark Breaux | Senior Information Architect</title>
+    <title>Tags on Mark Breaux | Information Architecture for the AI Era</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Mark Breaux | Senior Information Architect</description>
+    <description>Recent content in Tags on Mark Breaux | Information Architecture for the AI Era</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI/LLM</title>
+      <link>http://localhost:1313/tags/ai/llm/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Architecture</title>
+      <link>http://localhost:1313/tags/content-architecture/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/content-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Design</title>
+      <link>http://localhost:1313/tags/content-design/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/content-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Strategy</title>
+      <link>http://localhost:1313/tags/content-strategy/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/content-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DITA</title>
+      <link>http://localhost:1313/tags/dita/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Architecture</title>
+      <link>http://localhost:1313/tags/information-architecture/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/information-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PDF</title>
+      <link>http://localhost:1313/tags/pdf/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pdf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publishing</title>
+      <link>http://localhost:1313/tags/publishing/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/publishing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schema.org</title>
+      <link>http://localhost:1313/tags/schema.org/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/schema.org/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SEO</title>
+      <link>http://localhost:1313/tags/seo/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Toolchain</title>
+      <link>http://localhost:1313/tags/toolchain/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/toolchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User Research</title>
+      <link>http://localhost:1313/tags/user-research/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/user-research/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

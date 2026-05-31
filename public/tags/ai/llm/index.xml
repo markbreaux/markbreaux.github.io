@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI/LLM on Mark Breaux | Information Architecture for the AI Era</title>
+    <link>http://localhost:1313/tags/ai/llm/</link>
+    <description>Recent content in AI/LLM on Mark Breaux | Information Architecture for the AI Era</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Content Readiness</title>
+      <link>http://localhost:1313/portfolio/ai-content-readiness/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/ai-content-readiness/</guid>
+      <description>&lt;p&gt;Before AI-driven content consumption became a mainstream organizational concern, I was already designing for it — building infrastructure to ensure NI&amp;rsquo;s documentation would perform well in LLM interfaces, AI-powered search, and internal AI platforms. This case study covers four interconnected initiatives that collectively established the organization&amp;rsquo;s AI content readiness foundation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;As AI-driven interfaces — chatbots, LLMs, AI-assisted search — became a real documentation delivery channel, a critical question emerged: &lt;em&gt;was the content structured in a way that would actually perform well in those contexts?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

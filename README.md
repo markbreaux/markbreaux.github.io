@@ -75,7 +75,7 @@ portfolio-site/
 
 ### First-time setup
 
-1. Create a new GitHub repository named `mbreaux622.github.io`
+1. Repository: `https://github.com/markbreaux/markbreaux.github.io`
 2. Push this project to the `main` branch of that repo
 3. In GitHub: go to **Settings → Pages → Source** and select **GitHub Actions**
 
@@ -84,7 +84,7 @@ That's it. Every push to `main` triggers the workflow and deploys the site autom
 ### Custom domain (optional)
 
 1. Add a `CNAME` file to the `/static/` folder containing your domain, e.g.: `markbreaux.com`
-2. Configure your DNS provider to point to `mbreaux622.github.io`
+2. Configure your DNS provider to point to `markbreaux.github.io`
 3. Enable HTTPS in **Settings → Pages**
 
 ---

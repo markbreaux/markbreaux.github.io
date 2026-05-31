@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Design on Mark Breaux | Information Architecture for the AI Era</title>
+    <link>http://localhost:1313/tags/content-design/</link>
+    <description>Recent content in Content Design on Mark Breaux | Information Architecture for the AI Era</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/content-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Manual Standardization</title>
+      <link>http://localhost:1313/portfolio/user-manual-standardization/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/user-manual-standardization/</guid>
+      <description>&lt;p&gt;How do you design a documentation structure that works for customers across thousands of products? You start by asking how they search. This case study covers the research process that produced the User Manual model now used across NI&amp;rsquo;s entire product portfolio — and why each structural decision was made the way it was.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;NI&amp;rsquo;s documentation had accumulated over decades without a governing structural standard. Product teams made their own decisions about what documents to create and how to organize them — resulting in an inconsistent landscape of Getting Started Guides, Feature Usage documents, Process docs, and reference material organized in ways that made sense to the teams that created them, but not necessarily to the customers who needed to use them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
